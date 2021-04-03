@@ -1,0 +1,87 @@
+*{
+margin: 0;
+padding: 0;
+scroll-behavior: smooth;
+
+}
+
+.prvideo {
+
+	background-image: url("pozadina2.png");
+	background-attachment: fixed;
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+.logo {
+
+	padding-top: 300px;
+	padding-bottom: 800px;
+	position: sticky;
+	top: 4rem;
+
+}
+
+.drugideo {
+
+	background-image: url("imageonline-co-brightnessadjusted.png");
+}
+
+.text {
+
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	padding-left: 70px;
+	padding-top: 70px;
+	padding-bottom: 50px;
+	
+}
+
+.slikafilma1{
+
+	
+	display: inline-block;
+	float: left;
+	padding-bottom: 0px;
+}
+
+.slikafilma3 {
+
+	float:right;
+	display: inline-block;
+	padding-bottom: 0px;
+
+}
+
+.slikafilma2 {
+
+	
+	display: inline-block;
+	padding-left: 150px;
+	padding-bottom: 0px;
+}
+
+.trecideo {
+
+	background-image: url("imageonline-co-brightnessadjusted1.png");
+}
+
+.text2 {
+
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	padding-top: 200px;
+	padding-bottom: 50px;
+	font-size: 30px;
+	float: left;
+	padding-left: 60px;
+}
+
+.slikajava {
+
+	padding-left: 1200px;
+}
